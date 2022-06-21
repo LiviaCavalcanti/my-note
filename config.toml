@@ -1,0 +1,14 @@
+baseURL = '/'
+languageCode = 'en-us'
+title = 'My Data Science Annotations'
+theme = 'hello-friend'
+paginate = 5
+lastModDisplay = "Modified:"
+summaryLength = 20
+
+[languages]
+  [languages.en]
+    title = "Data Science Annotations"
+
+[languages.en.params.logo]
+      logoText = "python "
