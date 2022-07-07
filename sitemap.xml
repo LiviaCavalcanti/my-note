@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://liviacavalcanti.github.io/my-notes/posts/attention/</loc>
+    <loc>https://liviacavalcanti.github.io/my-notesposts/attention/</loc>
     <lastmod>2022-06-20T21:42:56-03:00</lastmod>
   </url><url>
-    <loc>https://liviacavalcanti.github.io/my-notes/</loc>
+    <loc>https://liviacavalcanti.github.io/my-notes</loc>
     <lastmod>2022-06-20T21:42:56-03:00</lastmod>
   </url><url>
-    <loc>https://liviacavalcanti.github.io/my-notes/posts/</loc>
+    <loc>https://liviacavalcanti.github.io/my-notesposts/</loc>
     <lastmod>2022-06-20T21:42:56-03:00</lastmod>
   </url><url>
-    <loc>https://liviacavalcanti.github.io/my-notes/categories/</loc>
+    <loc>https://liviacavalcanti.github.io/my-notescategories/</loc>
   </url><url>
-    <loc>https://liviacavalcanti.github.io/my-notes/tags/</loc>
+    <loc>https://liviacavalcanti.github.io/my-notestags/</loc>
   </url>
 </urlset>

@@ -5,21 +5,21 @@
     
     
     
-    <link>http://example.org/posts/</link>
+    <link>https://liviacavalcanti.github.io/my-notes/posts/</link>
     <description>Recent content in Posts on My Data Science Annotations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 20 Jun 2022 21:42:56 -0300</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://liviacavalcanti.github.io/my-notes/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Attention</title>
-      <link>http://example.org/posts/attention/</link>
+      <link>https://liviacavalcanti.github.io/my-notes/posts/attention/</link>
       <pubDate>Mon, 20 Jun 2022 21:42:56 -0300</pubDate>
       
-      <guid>http://example.org/posts/attention/</guid>
+      <guid>https://liviacavalcanti.github.io/my-notes/posts/attention/</guid>
       <description>
         
           

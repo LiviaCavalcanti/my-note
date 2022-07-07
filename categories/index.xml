@@ -5,12 +5,12 @@
     
     
     
-    <link>http://example.org/categories/</link>
+    <link>https://liviacavalcanti.github.io/my-notes/categories/</link>
     <description>Recent content in Categories on My Data Science Annotations</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://liviacavalcanti.github.io/my-notes/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
